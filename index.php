@@ -9,12 +9,11 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>
-        <?php
-        // put your code here
+
         echo 'Olá Mundo!  456';
         
         echo "ola udemy!";
+
         ?>
     </body>
 </html>
